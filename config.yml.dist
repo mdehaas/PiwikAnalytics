@@ -1,0 +1,8 @@
+# Piwik Analytics URL. Use http://, https:// or // (Auto-select based on the calling page)
+piwikurl: //stats.bommelhaas.nl/
+
+#Piwik Analytics Site ID
+piwiksiteid: 1
+
+#ToDo
+#piwikignoredroles: [root, editor]
