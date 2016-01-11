@@ -1,6 +1,6 @@
 {
     "name": "mdehaas/piwikanalytics",
-    "description": "Integrates Piwik Open Analytics Platform into your site. Please look at the roadmap on the GitHub repository for what the furure holds. Please fork on GitHub and create pull requests",
+    "description": "Integrates Piwik Open Analytics Platform into your site. Please look at the roadmap on the GitHub repository for what the furure holds. Feel free fork on GitHub and create pull requests.",
     "type": "bolt-extension",
     "keywords" : [ "piwik", "analytics", "statistics", "tracking" ],
     "require": {
@@ -15,17 +15,17 @@
     ],
 	"minimum-stability" : "dev",
 	"prefer-stable" : true,
-        "autoload": {
+    "autoload": {
         "files": [
             "init.php"
         ],
         "psr-4": {
-            "Bolt\\Extension\\mdehaas\\PiwikAnalytics\\": "",
-            "Bolt\\Extension\\mdehaas\\PiwikAnalytics\\Tests\\": "tests"
+            "Bolt\\Extension\\YourName\\ExtensionName\\": "",
+            "Bolt\\Extension\\YourName\\ExtensionName\\Tests\\": "tests"
         }
     },
     
     "extra": {
-		"bolt-icon": "piwik-icon.png"
+        "bolt-icon": "piwik-icon.png"
     }
 }
