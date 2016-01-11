@@ -20,8 +20,8 @@
             "init.php"
         ],
         "psr-4": {
-            "Bolt\\Extension\\YourName\\ExtensionName\\": "",
-            "Bolt\\Extension\\YourName\\ExtensionName\\Tests\\": "tests"
+            "Bolt\\Extension\\mdehaas\\PiwikAnalytics\\": "",
+            "Bolt\\Extension\\mdehaas\\PiwikAnalytics\\Tests\\": "tests"
         }
     },
     
