@@ -10,7 +10,7 @@
     "authors": [
         {
             "name": "Marcel de Haas", 
-            "email": "marcel@bommelhaas.nl"
+            "email": "marcel@marceldehaas.com"
         }
     ],
 	"minimum-stability" : "dev",
@@ -26,7 +26,7 @@
     },
     
     "extra": {
-        "bolt-assets": "assets",
-		"bolt-icon": "piwik-icon.png"
+        "bolt-icon": "piwik-icon.png",
+        "bolt-assets": "assets"
     }
 }
