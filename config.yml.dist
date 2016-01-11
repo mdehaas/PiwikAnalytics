@@ -1,8 +1,8 @@
 # Piwik Analytics URL
-piwikurl:
+piwikurl: //stats.bommelhaas.nl/
 
 #Piwik Analytics Site ID
-piwiksiteid:
+piwiksiteid: 1
 
 #ToDo
 #piwikignoredroles: [root, editor]

@@ -10,12 +10,12 @@
     "authors": [
         {
             "name": "Marcel de Haas", 
-            "email": "marcel@marceldehaas.com"
+            "email": "marcel@bommelhaas.nl"
         }
     ],
 	"minimum-stability" : "dev",
 	"prefer-stable" : true,
-    "autoload": {
+        "autoload": {
         "files": [
             "init.php"
         ],
@@ -26,7 +26,6 @@
     },
     
     "extra": {
-        "bolt-icon": "piwik-icon.png",
-        "bolt-assets": "assets"
+		"bolt-icon": "piwik-icon.png"
     }
 }
