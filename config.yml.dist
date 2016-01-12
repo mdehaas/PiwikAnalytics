@@ -1,0 +1,8 @@
+# Piwik Analytics URL
+piwikurl:
+
+#Piwik Analytics Site ID
+piwiksiteid:
+
+#ToDo
+#piwikignoredroles: [root, editor]
