@@ -13,8 +13,6 @@
             "email": "marcel@bommelhaas.nl"
         }
     ],
-        "minimum-stability" : "dev",
-        "prefer-stable" : true,
     "autoload": {
         "files": [
             "init.php"
