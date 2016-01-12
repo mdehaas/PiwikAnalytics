@@ -21,7 +21,6 @@
         ],
         "psr-4": {
             "Bolt\\Extension\\mdehaas\\PiwikAnalytics\\": "",
-            "Bolt\\Extension\\mdehaas\\PiwikAnalytics\\Tests\\": "tests"
         }
     },
 
